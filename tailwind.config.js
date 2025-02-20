@@ -2,7 +2,13 @@
 module.exports = {
   content: ["*.html","./dist/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        myfont : [
+          "Sigmar", "serif"
+        ]
+      }
+    },
   },
   plugins: [],
 }
