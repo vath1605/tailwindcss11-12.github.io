@@ -5,3 +5,6 @@
 .btn{
     @apply w-24 h-10 text-white shadow-md font-bold rounded mx-2;
 }
+.lihover{
+    @apply py-1 rounded-full bg-transparent hover:bg-hov xl:px-6 lg:px-8 md:px-6 sm:px-4 px-3;
+}
