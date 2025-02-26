@@ -8,3 +8,6 @@
 .lihover{
     @apply py-1 rounded-full bg-transparent hover:bg-hov xl:px-6 lg:px-8 md:px-6 sm:px-4 px-3;
 }
+.navItem{
+    @apply flex flex-col items-center text-white;
+}
